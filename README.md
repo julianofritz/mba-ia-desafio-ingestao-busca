@@ -173,19 +173,6 @@ CONTEXTO ENCONTRADO:
 [documentos relevantes sobre faturamento...]
 ```
 
-## 🎓 Para Estudo
-
-Este projeto é ideal para aprender:
-- **Embeddings** e vetores
-- **Busca semântica** com pgVector
-- **RAG** (Retrieval-Augmented Generation)
-- **Fallback patterns** em produção
-- **LangChain** e ecossistema
-
-## 📝 Licença
-
-MIT License - uso livre para estudo e desenvolvimento.
-
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Abra issues para bugs e pull requests para melhorias.
